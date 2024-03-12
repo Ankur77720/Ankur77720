@@ -1,4 +1,4 @@
-<h2 align="left">Ankur Prajapati: 🌟 Accomplished full-stack developer specializing in front-end animation. Proficient in Node.js, Express.js, and React Native. Elevating digital experiences with expertise.</h2>
+
 
 ###
 
